@@ -1,0 +1,8 @@
+yashname=input("enter yor name:")
+age=input("enter yor age:")
+branch=input("enter yor branch:")
+college=input("enter yor college:")
+print(type(name))
+print(type(age))
+print(type(branch))
+print(type(college))
